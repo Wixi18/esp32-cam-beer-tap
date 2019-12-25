@@ -173,7 +173,7 @@ double beerCount(){ //if not new counts of pulses (with 1 second space to check 
     }
 
     float toLitres = 0;
-    int pulseConstant = 5880; //YF-S401 send 5880 pulses for 1 litre
+    int pulseConstant = 4600; //YF-S401 send 5880 pulses for 1 litre - UPDATE: after testing it's about 4600 pulses
     toLitres = (float)pulseCount / (float)pulseConstant;
 
     return toLitres;
