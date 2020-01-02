@@ -1,5 +1,9 @@
-# ESP32-CAM Beer tap
-ÉSP32-CAM module based counter of tapped beers with picture
+# About
+Counter of content of tapped beer with picture taking saving on SD card based on ESP32-CAM module.
+It's solution for parties where people are tapping own beers (and there is no Wi-Fi)
+
+## Functions
+Every time someone starts to tap a beer is taken picture and it's counting litres of tapped beer. When the float stops (there are no more impulses from sensor with possible pause 1 second) then the name of taken picture file and content (in litres) are saved in logs.txt file on SD card. 
 
 ## Instructions for Zhoufik
 * Připojit senzor průtoku na hadici, kteoru bude pivo protékat a hadici, která na senzor již byla připojená, připojit do výčepu. 
