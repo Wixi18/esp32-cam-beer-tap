@@ -1,4 +1,4 @@
-# About
+# ESP32-cam beer tap
 Counter of content of tapped beer with picture taking saving on SD card based on ESP32-CAM module.
 It's solution for parties where people are tapping own beers (and there is no Wi-Fi)
 
