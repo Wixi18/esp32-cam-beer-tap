@@ -6,10 +6,10 @@ It's solution for parties where people are tapping own beers (and there is no Wi
 Every time someone starts to tap a beer is taken picture and it's counting litres of tapped beer. When the float stops (there are no more impulses from sensor with possible pause 1 second) then the name of taken picture file and content (in litres) are saved in logs.txt file on SD card. 
 
 ## HW
-*ESP32-CAM (Ai-Thinker) board
-*YF-S401 Flow sensor
-*some (at least 8) dupont wire 
-*FTDI programmer
+* ESP32-CAM (Ai-Thinker) board
+* YF-S401 Flow sensor
+* some (at least 8) dupont wire 
+* FTDI programmer
 
 
 ### Instructions for Zhoufik
