@@ -1,6 +1,6 @@
 # ESP32-cam (Ai-Thinker) beer tap
 Counter of content of tapped beer with picture taking saving on SD card based on ESP32-CAM module.
-It's solution for parties where people are tapping own beers (and there is no Wi-Fi)
+It's solution for parties where people are tapping own beers (and there is no Wi-Fi - but this feature is on TO DO list)
 
 ## Functions
 Every time someone starts to tap a beer is taken picture and it's counting litres of tapped beer. When the float stops (there are no more impulses from sensor with possible pause 1 second) then the name of taken picture file and content (in litres) are saved in logs.txt file on SD card. 
