@@ -19,5 +19,5 @@ If there is camera error, than use 2A power supply, it should solve the problem
 
 ![how to connect flow sensor](https://raw.githubusercontent.com/Wixi18/esp32-cam-beer-tap/master/howToConnectFlowSensor.png)
 
-![flow sensor photo](https://raw.githubusercontent.com/Wixi18/esp32-cam-beer-tap/master/flow_sensor.JPG)
+![in action](https://raw.githubusercontent.com/Wixi18/esp32-cam-beer-tap/master/esp32_cam_inAction.jpg)
 
