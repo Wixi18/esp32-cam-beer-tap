@@ -12,8 +12,8 @@ Every time someone starts to tap a beer is taken picture and it's counting litre
 * FTDI programmer
 
 ## Toubleshooting
-Manual for Push-fit tubes: http://download.svet-piva.cz/navod-rychlospojky.pdf
-If the beer is leaking around the connection tube-sensor, than use cable tie (fofrpásky)
+Manual for Push-fit tubes: http://download.svet-piva.cz/navod-rychlospojky.pdf  
+If the beer is leaking around the connection tube-sensor, than use cable tie (fofrpásky)  
 If there is camera error, than use 2A power supply, it should solve the problem
 
 ![how to connect flow sensor](https://raw.githubusercontent.com/Wixi18/esp32-cam-beer-tap/master/howToConnectFlowSensor.png)
