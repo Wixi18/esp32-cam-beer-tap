@@ -8,7 +8,7 @@ Every time someone starts to tap a beer is taken picture and it's counting litre
 ## HW
 * ESP32-CAM (Ai-Thinker) board
 * YF-S401 Flow sensor
-* 4GB SD card (4GB is officialy supported, but 16GB worked as well)
+* 4GB microSD card (4GB is officialy supported, but 16GB worked as well)
 * some (at least 8) dupont wire 
 * FTDI programmer
 * case: https://www.thingiverse.com/thing:3406029 
